@@ -1,6 +1,6 @@
 const {
-  DB_USER = "",
-  DB_PASSWORD = "",
+  DB_USER = "ganda",
+  DB_PASSWORD = "ganda123",
   DB_NAME = "bcr",
   DB_HOST = "127.0.0.1",
   DB_PORT = "5432",
